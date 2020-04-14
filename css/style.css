@@ -1,0 +1,39 @@
+.jumbotron {
+    margin-bottom: 0;
+}
+.parallax1 {
+    background-image: url("../images/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.parallax2 {
+    background-image: url("../images/2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.parallax3 {
+    background-image: url("../images/3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.parallax4 {
+    background-image: url("../images/4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
